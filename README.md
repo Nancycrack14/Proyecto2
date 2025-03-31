@@ -6,6 +6,9 @@ A lo largo del proyecto se explorarán los datos disponibles, se identificarán 
 
 Finalmente, se seleccionará el mejor modelo para generar predicciones sobre los datos de prueba, las cuales serán cargadas en la plataforma de Kaggle para obtener una puntuación oficial. Este proceso permitirá evaluar la capacidad del modelo para resolver el problema de clasificación de manera efectiva.
 
+El train y test se obtuvo de la pagina del concurso en Kaggle
+https://www.kaggle.com/competitions/spaceship-titanic/overview
+
 🎯 Objetivos
 
 - Entrenar y evaluar distintos modelos de clasificación, incluyendo regresión logística multinomial, análisis discriminante lineal (LDA), árboles de decisión y métodos de ensamble como Random Forest y XGBoost.
